@@ -62,18 +62,19 @@ in sense of storing all the records.
 **Input**: <br />
 Enter name of farmer 1 : Gaurav<br />
 Enter age of farmer 1 : 18<br />
-Enter number of acres of farmer 1 : 321
+Enter number of acres of farmer 1 : 321<br />
 Enter average crop produced in each acre of farmer 1 :543<br />
-Enter name of farmer 2 : Ansh<br />
 
+Enter name of farmer 2 : Ansh<br />
 Enter age of farmer 2 :18<br />
 Enter number of acres of farmer 2 : 543<br />
 Enter average crop produced in each acre of farmer 2 :432<br />
+
 Enter name of farmer 3 : Sonali<br />
 Enter age of farmer 3 : 18<br />
 Enter number of acres of farmer 3 : 324<br />
-
 Enter average crop produced in each acre of farmer 3 :543<br />
+
 Enter name of farmer 4 : Pragya<br />
 Enter age of farmer 4 : 18<br />
 Enter number of acres of farmer 4 :532<br />
@@ -81,18 +82,19 @@ Enter average crop produced in each acre of farmer 4 :765<br />
 
 Enter name of farmer 5 : Ayush<br />
 Enter age of farmer 5 :543<br />
-Enter number of acres of farmer 5 : 432
+Enter number of acres of farmer 5 : 432<br />
 Enter average crop produced in each acre of farmer 5 :654<br />
 .<br />
 .<br />
 .<br />
 Enter number of acres of farmer 13 :432<br />
 Enter average crop produced in each acre of farmer 13 :654<br />
+
 Enter name of farmer 14 :Welsi<br />
 Enter age of farmer 14 :51<br />
 Enter number of acres of farmer 14 :543<br />
-
 Enter average crop produced in each acre of farmer 14 :654<br />
+
 Enter name of farmer 15 : Tim<br />
 Enter age of farmer 15 :65<br />
 Enter number of acres of farmer 15 :535<br />
